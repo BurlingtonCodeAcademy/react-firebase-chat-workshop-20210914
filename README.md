@@ -32,6 +32,32 @@ npm install
     - Firebase Functions
   - Choose to use an existing project for your application and select the project you just created using the web interface.
 
+## Get the Code
+
+Open a terminal to a directory where you keep your code projects
+
+```sh
+cd ~/your-projects-directory
+```
+
+Clone the code from github using the following command in your terminal command line
+
+```sh
+git clone BurlingtonCodeAcademy/react-firebase-chat-workshop-20210914
+```
+
+Change directories into the one you just cloned from Github
+
+```sh
+cd react-firebase-chat-workshop-20210914
+```
+
+Open your editor of choice in the directory, we use the VS Code editor below.
+
+```sh
+code .
+```
+
 
 ## Walk Through
 
