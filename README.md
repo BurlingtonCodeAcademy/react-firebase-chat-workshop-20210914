@@ -47,15 +47,16 @@ Your code should look something like this when you are finished.
 
 ```js
 firebase.initializeApp({
-  apiKey: "AIzaSyDQE4zwXhARxNdfWJY591jlqa2JTlZMI1Y",
-  authDomain: "fir-react-chat-workshop.firebaseapp.com",
-  projectId: "fir-react-chat-workshop",
-  storageBucket: "fir-react-chat-workshop.appspot.com",
-  messagingSenderId: "239064656534",
-  appId: "1:239064656534:web:39cad15580f08da026b0b7",
-  measurementId: "G-3TR24THQ57",
+  apiKey: "AIzaSyAzJlufvNzqr4AzQYr_wZgMNeS4Ye0Tn8g",
+  authDomain: "firbase-react-chat-20210914.firebaseapp.com",
+  projectId: "firbase-react-chat-20210914",
+  storageBucket: "firbase-react-chat-20210914.appspot.com",
+  messagingSenderId: "3183552696",
+  appId: "1:3183552696:web:e6070ac96bb7cc2932ac4d",
+  measurementId: "G-YM84KQ8FP5"
 });
 ```
+
 #### Connect the useAuthState hook to listen for signed in user
 
 Within the `<App />` component, use the `useAuthState()` function to listen for changes to a logged in user.
